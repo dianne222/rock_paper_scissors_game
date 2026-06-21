@@ -1,5 +1,5 @@
 import random
-from player import Player
+from players.player import Player
 
 class AIPlayer(Player):
 

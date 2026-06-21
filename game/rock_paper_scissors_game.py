@@ -6,7 +6,7 @@ from cvzone.HandTrackingModule import HandDetector
 
 from players.ai_player import AIPlayer
 from players.human_player import HumanPlayer
-from scoreboard import ScoreBoard
+from game.scoreboard import ScoreBoard
 
 class RockPaperScissorsGame:
 
